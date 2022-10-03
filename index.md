@@ -34,4 +34,4 @@ Outside of classes, one of my hobbies is to sing in a cappella. I am the treasur
   
 
 
-[Go to Top of the Page](#introduction)
+[Go to Top of the Page](https://alexander-kourjanski.github.io/cse110-pages_project/#introduction)
