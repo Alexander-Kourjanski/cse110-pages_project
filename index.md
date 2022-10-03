@@ -1,6 +1,7 @@
 # Alexander Kourjanski
 ## Introduction
 ![](/image_for_webpage/image-of-self.PNG)
+
 Hello, I am Alexander Kourjanski. Currently, I am a third year student at UC San Diego majoring in computer science. The story of how I chose to major in this field is somewhat of an *interesting* story. Until I reached college, I disliked the idea of programming funny enough. I could understand the very basics of the basics like `print("Hello world!")`, but anything past this and simple arithmetic would never make sense to me no matter how much I tried. If you would have talked to me even just two years ago and ask me what I want to major in just before starting college, my answer would be,
 >Anything but computer science.
 
